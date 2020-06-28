@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UTRM_DB_ACT_01"
