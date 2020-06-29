@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         text = findViewById(R.id.textView1);
     }
 
-
+ //comentario test github
     //SET THE METHODS
     public void clickbutton(View view){
         if(buttonStatus == true){
